@@ -1,5 +1,24 @@
 <!-- veigapunk-upstream-maintainers:start -->
-> **Upstream package maintainer contact(s):** [Carlos A. Becker (`caarlos0`)](https://github.com/caarlos0). Declared in the upstream release configuration.
+> **Upstream package maintainer contact(s):** [Carlos Alexandro Becker (`caarlos0`)](https://github.com/caarlos0). Declared in the upstream release configuration.
+
+<details><summary>All contributors (14)</summary>
+
+- Carlos Alexandro Becker ([`caarlos0`](https://github.com/caarlos0))
+- Ayman Bagabas ([`aymanbagabas`](https://github.com/aymanbagabas))
+- dependabot\[bot\] ([`dependabot[bot]`](https://github.com/dependabot%5Bbot%5D))
+- Christian Rocha ([`meowgorithm`](https://github.com/meowgorithm))
+- github\-actions\[bot\] ([`github-actions[bot]`](https://github.com/github-actions%5Bbot%5D))
+- Charm ([`charmcli`](https://github.com/charmcli))
+- Michał Kotowski ([`mkotowski`](https://github.com/mkotowski))
+- bashbunni ([`bashbunni`](https://github.com/bashbunni))
+- Andy ([`acarl005`](https://github.com/acarl005))
+- Andrey Nering ([`andreynering`](https://github.com/andreynering))
+- João Pedro Veiga  ([`VeigaPunk`](https://github.com/VeigaPunk))
+- Rainer Sigwald ([`rainersigwald`](https://github.com/rainersigwald))
+- Raphael Amorim ([`raphamorim`](https://github.com/raphamorim))
+- Richard Wang ([`rzhw`](https://github.com/rzhw))
+
+</details>
 <!-- veigapunk-upstream-maintainers:end -->
 
 # Sequin
