@@ -1,3 +1,7 @@
+<!-- veigapunk-upstream-maintainers:start -->
+> **Upstream package maintainer contact(s):** [Carlos A. Becker (`caarlos0`)](https://github.com/caarlos0). Declared in the upstream release configuration.
+<!-- veigapunk-upstream-maintainers:end -->
+
 # Sequin
 
 <p>
